@@ -1,2 +1,2 @@
 # Digital Payment System & Security
-WEB TECHNOLOGIES PROJECT
+## WEB TECHNOLOGIES PROJECT
